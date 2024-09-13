@@ -1,0 +1,4 @@
+repository "savageroad@ilyas170605@cloud"
+  path "/"
+    br "/main"
+    co "/main"
